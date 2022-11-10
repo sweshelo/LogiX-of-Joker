@@ -1,0 +1,13 @@
+{
+    "localeCode": "ja-sw",
+    "authors": ["sweshelo"],
+    "messages": {
+        "Arcana.General.Yes": "はい",
+        "Arcana.General.No": "いいえ",
+        "Arcana.General.Confirm": "決定",
+        "Arcana.General.Cancel": "キャンセル",
+        "Arcana.General.Select": "選択",
+
+        "Arcana.dummy": "dummy"
+    }
+}
